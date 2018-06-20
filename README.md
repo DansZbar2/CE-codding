@@ -1,2 +1,3 @@
 # CE-codding
 Useful Inner Core scripts...
+1'st script is a building converor(converts buildings in JSON)
